@@ -1,5 +1,5 @@
 # Personal Website - theCreedo.github.io
-[theCreedo.github.io](theCreedo.github.io)
+[theCreedo.github.io](thecreedo.github.io)
 
 Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
