@@ -1,5 +1,4 @@
 # Personal Website
-
 Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 ## Tutorial Links
