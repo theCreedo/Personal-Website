@@ -1,14 +1,20 @@
 # Personal Website
 ## Description
 Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
+
+4/7/16 - 5/7/16
+
 Day 1: Started!
 
 Day 3: Working on practicing committing with a couple of friends. Some of them have already forgetten to commit :anguished: Luckily there are few that are still going at it hard! :grimacing:
+
 
 ### 30-Day Project Folders
 * Eric Lee - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
 * Kevin Zhang - [Github Website](https://github.com/kevinisninja/kevinisninja.github.io)
+
+* Michelle Gu - [Personal Chef App](https://github.com/michelle-gu/personal-chef)
 
 * Sonam Benakatti - [JavaScript Exercises](https://github.com/sonambenakatti/javascript-exercises)
 
@@ -28,7 +34,7 @@ Day 3: Working on practicing committing with a couple of friends. Some of them h
 
 * [GitPages](https://pages.github.com)
 
-* [Squarespace](https://www.squarespace.com/) **Expensive**
+* [Squarespace](https://www.squarespace.com/) - **Expensive**
 
 
 **W3Schools material** - **Very Helpful**
