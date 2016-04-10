@@ -6,15 +6,15 @@ Day 1: Started!
 Day 3: Working on practicing committing with a couple of friends. Some of them have already forgetten to commit :anguished: Luckily there are few that are still going at it hard! :grimacing:
 
 ### 30-Day Project Folders
-* [Eric Lee - Github Website](https://github.com/theCreedo/theCreedo.github.io)
+* Eric Lee - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
-* [Kevin Zhang - Github Website](https://github.com/kevinisninja/kevinisninja.github.io)
+* Kevin Zhang - [Github Website](https://github.com/kevinisninja/kevinisninja.github.io)
 
-* [Sonam Benakatti - 30 Days Commit](https://github.com/sonambenakatti/javascript-exercises)
+* Sonam Benakatti - [JavaScript Exercises](https://github.com/sonambenakatti/javascript-exercises)
 
-* [Thien Vo - 30 Days Commit](https://github.com/jaysonvo97/30GitsCommit)
+* Thien Vo - [30 Gits Commit](https://github.com/jaysonvo97/30GitsCommit)
 
-* [Victoria Zhou - Github Website](https://github.com/vczhou/vczhou.github.io)
+* Victoria Zhou - [Github Website](https://github.com/vczhou/vczhou.github.io)
 
 ## Tutorial Links
 ### README.md Help
