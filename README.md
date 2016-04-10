@@ -3,24 +3,27 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 ## Tutorial Links
 ### README.md Help
-[Github Format README.md](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+-[Github Format README.md](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 ### Website Help
 
-#### Website Domains
-[GitPages](https://pages.github.com)
+**Website Domains**
+-[GitPages](https://pages.github.com)
 
-[Squarespace](https://www.squarespace.com/) **\*Expensive\***
+-[Squarespace](https://www.squarespace.com/) **Expensive**
 
-#### W3Schools material \*Very Helpful\*
-[HTML tutorial](http://www.w3schools.com/html/)
 
-[CSS Tutorial](http://www.w3schools.com/css/)
+**W3Schools material \*Very Helpful\* **
+-[HTML tutorial](http://www.w3schools.com/html/)
 
-[JavaScript Tutorial](http://www.w3schools.com/js/)
+-[CSS Tutorial](http://www.w3schools.com/css/)
 
-#### Miscellaneous Links
-[thesitewizard Beginner's Guide](http://www.thesitewizard.com/gettingstarted/startwebsite.shtml)
+-[JavaScript Tutorial](http://www.w3schools.com/js/)
+
+
+**Miscellaneous Links**
+-[thesitewizard Beginner's Guide](http://www.thesitewizard.com/gettingstarted/startwebsite.shtml)
+
 
 ## Inspirational Quotes
 Mortimer J. Adler
