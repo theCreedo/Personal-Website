@@ -2,14 +2,25 @@
 Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 ## Tutorial Links
-[GitPages](https://pages.github.com)
-
+### README.md Help
 [Github Format README.md](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-[w3schools html tutorial](http://www.w3schools.com/html/)
+### Website Help
 
+#### Website Domains
+[GitPages](https://pages.github.com)
+
+[Squarespace](https://www.squarespace.com/) **\*Expensive\***
+
+#### W3Schools material \*Very Helpful\*
+[HTML tutorial](http://www.w3schools.com/html/)
+
+[CSS Tutorial](http://www.w3schools.com/css/)
+
+[JavaScript Tutorial](http://www.w3schools.com/js/)
+
+#### Miscellaneous Links
 [thesitewizard Beginner's Guide](http://www.thesitewizard.com/gettingstarted/startwebsite.shtml)
-
 
 ## Inspirational Quotes
 Mortimer J. Adler
