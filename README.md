@@ -8,6 +8,7 @@ Day 1: Started!
 
 Day 3: Working on practicing committing with a couple of friends. Some of them have already forgetten to commit :anguished: Luckily there are few that are still going at it hard! :grimacing:
 
+Day 4: Attempted to work on css by adding a background photo of my face that stays stagnant while I scrolled. Ended up filling the whole webpage with my forehead. I ended up botching that idea.
 
 ### 30-Day Project Folders
 * Eric Lee - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
