@@ -1,10 +1,11 @@
-profile {
+ profile {
 	float: left;
 	margin: 10px 10px 0 0;
 }
 
 body {
         background-color: #d0e4fe;
+	fonrt-size: 100%
 /*	background-image: url("face.jpg");
         background-repeat: no-repeat;
         background-position: right top;
@@ -12,15 +13,67 @@ body {
 }
 
 h1{
+	margin-bottom: 20px;
         color: black;
         text-align: center;
+	font-family: "Verdana";
+	text-decoration: underline;
+	font-size: 2.5em;
 }
 h2{
-        color: grey;
+	margin-top: 10px;
+	margin-bottom: 10px;
+        color: pink;
         text-align: center;
+	font-family: "Verdana";
+	text-decoration: underline;
+	font-size: 1.875em;
 }
 p {
-        font-family: "Times New Roman";
-        font-size: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+        font-family: "Courier New";
+        font-size: 0.875em;
 }
 
+pre {
+	margin: auto;
+	border-style: solid;
+	border-color: red green blue yellow;
+}
+
+a.link {
+	text-decoration: none;
+	color: red;
+}
+
+a.visited {
+	text-decoration: none;
+	color: green;
+}
+
+a.hover {
+	text-decoration: underline;
+	color: hotpink;
+}
+
+a.active {
+	text-decoration: underline;
+	color: blue;
+}
+
+/*Advanced link button*/
+/*
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+*/
