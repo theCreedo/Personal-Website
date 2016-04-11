@@ -10,6 +10,8 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 **Day 4:** Attempted to work on css by adding a background photo of my face that stays stagnant while I scrolled. Ended up filling the whole webpage with my forehead. I ended up botching that idea.
 
+**Day 5:** Added several additional css elements. Changed the color of the fonts and attempted to add borders to quotes. Also implemented text-decoration, but it really just looks like a mess right now. Need to format quotes to stay inside of the border, or have the border stay around the quotes.
+
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
