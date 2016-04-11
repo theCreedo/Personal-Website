@@ -17,11 +17,13 @@ Day 4: Attempted to work on css by adding a background photo of my face that sta
 
 * Michelle Gu - [Personal Chef App](https://github.com/michelle-gu/personal-chef)
 
+* Nandhini Lakuduva - [Profile](https://github.com/nlakuduva)
+
 * Sonam Benakatti - [JavaScript Exercises](https://github.com/sonambenakatti/javascript-exercises)
 
 * Thien Vo - [30 Gits Commit](https://github.com/jaysonvo97/30GitsCommit)
 
-* Victoria Zhou - [Github Website](https://github.com/vczhou/vczhou.github.io)
+* Victoria Zhou - [FRI Project](https://github.com/blacksmithgu/fri_object_following) [Github Website](https://github.com/vczhou/vczhou.github.io)
 
 ## Tutorial Links
 ### README.md Help
