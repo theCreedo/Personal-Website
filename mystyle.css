@@ -1,8 +1,15 @@
- profile {
+ .profile {
 	float: left;
-	margin: 10px 10px 0 0;
+	width: 104px;
+	height: 104px;
+	display:block;
+	background:transparent url('face1.jpg') center top no-repeat;
 }
 
+
+.profile:hover {
+	background-image: url('face2.jpg');
+}
 body {
         background-color: #d0e4fe;
 	fonrt-size: 100%
