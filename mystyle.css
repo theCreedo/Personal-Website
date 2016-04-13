@@ -1,17 +1,18 @@
 .qAuthor:hover {
-	text-decoration:underline;	
+	font-weight:bold;
 }
 
  .profile {
 	float: left;
-	width: 104px;
-	height: 104px;
-	display: inline;
+	max-width:100%;
+	max-height:100%;
 	background:url('face1.jpg');
 }
 
 
 .profile:hover {
+	max-width:100%;
+	max-height:100%;
 	background-image: url('face2.jpg');
 }
 body {
