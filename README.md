@@ -12,7 +12,9 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 **Day 5:** Added several additional css elements. Changed the color of the fonts and attempted to add borders to quotes. Also implemented text-decoration, but it really just looks like a mess right now. Need to format quotes to stay inside of the border, or have the border stay around the quotes. I also added a new html page in order to go to the Snail Tale game. Unfortunately it didn't work out well, so I just have a new page with the description of the game.
 
-**Day 6:**
+**Day 6:** Made the the profile picture hoverable. Unfortunately, I can't resize the image so it shows only the background of the picture rather than me in it. I also fixed the links so that the they can be underlined when hovered over.
+
+**Day 7:** Fixing the image resizing.
 
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)

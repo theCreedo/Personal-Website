@@ -1,9 +1,13 @@
+.qAuthor:hover {
+	text-decoration:underline;	
+}
+
  .profile {
 	float: left;
 	width: 104px;
 	height: 104px;
-	display:block;
-	background:transparent url('face1.jpg') center top no-repeat;
+	display: inline;
+	background:url('face1.jpg');
 }
 
 
@@ -12,7 +16,7 @@
 }
 body {
         background-color: #d0e4fe;
-	fonrt-size: 100%
+	font-size: 100%
 /*	background-image: url("face.jpg");
         background-repeat: no-repeat;
         background-position: right top;
@@ -49,24 +53,28 @@ pre {
 	border-color: red green blue yellow;
 }
 
+a {
+	display:inline;
+}
+
 a:link {
 	text-decoration: none;
-	color: red;
+	color: lightblue;
 }
 
 a:visited {
 	text-decoration: none;
-	color: green;
+	color: purple;
 }
 
 a:hover {
 	text-decoration: underline;
-	color: hotpink;
+	color: lightblue;
 }
 
 a:active {
 	text-decoration: underline;
-	color: blue;
+	color: red;
 }
 
 /*Advanced link button*/
