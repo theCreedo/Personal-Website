@@ -57,22 +57,22 @@ a {
 
 a:link {
 	text-decoration: none;
-	color: lightblue;
+	color: blue;
 }
 
 a:visited {
 	text-decoration: none;
-	color: purple;
+	color: red;
 }
 
 a:hover {
 	text-decoration: underline;
-	color: lightblue;
+	color: green;
 }
 
 a:active {
 	text-decoration: underline;
-	color: red;
+	color: darkblue;
 }
 
 /*Advanced link button*/
