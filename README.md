@@ -14,8 +14,9 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 **Day 6:** Made the the profile picture hoverable. Unfortunately, I can't resize the image so it shows only the background of the picture rather than me in it. I also fixed the links so that the they can be underlined when hovered over.
 
-**Day 7:** Fixing the image resizing.
+**Day 7:** Fixing the image resizing. Did not fix it.
 
+**Day 8:** Added new links to resume and personal projects/descriptions with reformatted coloring.
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
