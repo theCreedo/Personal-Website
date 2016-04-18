@@ -21,6 +21,8 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 **Day 9:** Reordered Information in home page. Added more projects into the personal projects html part.
 
 **Day 10:** Added Education and Technical Skill info. Made 404.html viewable with red background (hopefully).
+
+**Day 12:** Added About Me info with links to organizations I volunteer or go to.
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
