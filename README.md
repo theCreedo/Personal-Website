@@ -23,6 +23,10 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 **Day 10:** Added Education and Technical Skill info. Made 404.html viewable with red background (hopefully).
 
 **Day 12:** Added About Me info with links to organizations I volunteer or go to.
+
+**Day 13:** Played around with adding a picture, changed fonts, and formatted the website to look more aesthetic (even though it looks the same as always). There are now only 4 people total who are still going strong on the challenge ._. I've almost forgotten to remind some people, but some of them are very self-motivated.
+
+**Day 14:** Trying out a style format with different parts, and hoping to add a good format that has a navigation bar and cool color styling.
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
