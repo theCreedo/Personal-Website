@@ -1,11 +1,10 @@
- .profile {
-	float: left;
+ .img {
 	max-width:100%;
 	background:url('face1.jpg');
 }
 
 
-.profile:hover {
+.img:hover {
 	max-width:100%;
 	background-image: url('face2.jpg');
 }
