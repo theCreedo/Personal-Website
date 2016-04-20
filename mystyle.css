@@ -23,7 +23,6 @@ h1{
 	margin-bottom: 20px;
         color: black;
         text-align: center;
-	text-decoration: underline;
 	font-size: 2.5em;
 }
 
@@ -45,7 +44,7 @@ p {
         font-size: 0.875em;
 }
 
-.Info {
+Info {
 	
 	text-align: center;
 	border-color: black;
