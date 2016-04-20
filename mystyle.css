@@ -45,15 +45,23 @@ p {
         font-size: 0.875em;
 }
 
+.Info {
+	
+	text-align: center;
+	border-color: black;
+
+}
+
 pre {
 	margin: auto;
 	border-style: solid;
-	border-color: red green blue yellow;
+	border-color: black;
 }
 
 pre:hover {
 	font-weight: bold;	
 }
+
 a {
 	display:inline;
 }
