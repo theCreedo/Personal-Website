@@ -9,12 +9,16 @@
     background-color:#eeeeee;
     height:max-height;
     width:15%;
-    min-width:100px;
+    max-width:150px;
+    min-width:125px;
     float:left;
     padding:5px; 
 }
 #section {
-    width:350px;
+    
+    width:30%;
+    max-width:350px;
+    min-width:200px;
     float:left;
     padding:10px; 
 }
