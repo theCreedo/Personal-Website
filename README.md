@@ -29,6 +29,8 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 **Day 14:** Trying out a style format with different parts, and hoping to add a good format that has a navigation bar and cool color styling.
 
 **Day 15:** Trying to implement style format across all parts of website (only two). Reformatting website to look more aesthetic.
+
+**Day 16:** Add words in 404.html
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
