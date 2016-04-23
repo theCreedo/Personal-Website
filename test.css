@@ -10,12 +10,12 @@
     height:max-height;
     width:15%;
     max-width:150px;
-    min-width:125px;
+    min-width:130px;
     float:left;
     padding:5px; 
 }
 #section {
-    
+    width: 400px;    
     max-width:400px;
     min-width:150px;
     float:left;
