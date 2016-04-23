@@ -25,8 +25,9 @@
     background-color:black;
     color:white;
     clear:both;
-    position:absolute;
+    position:fixed;
     bottom:0;
+    left:0;
     text-align:center;
     padding:5px; 
 }
