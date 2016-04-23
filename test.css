@@ -25,6 +25,8 @@
     background-color:black;
     color:white;
     clear:both;
+    position:absolute;
+    bottom:0;
     text-align:center;
     padding:5px; 
 }
