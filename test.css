@@ -25,9 +25,6 @@
     background-color:black;
     color:white;
     clear:both;
-    position:fixed;
-    bottom:0;
-    left:0;
     text-align:center;
     padding:5px; 
 }
@@ -43,7 +40,7 @@ a:link {
 
 a:visited {
         text-decoration: none;
-        color: red;
+        color: hotpink;
 }
 
 a:hover {
