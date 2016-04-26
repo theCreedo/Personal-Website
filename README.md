@@ -31,6 +31,12 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 **Day 15:** Trying to implement style format across all parts of website (only two). Reformatting website to look more aesthetic.
 
 **Day 16:** Add words in 404.html
+
+**Day 17:** Add images to the personal projects in order to show the game for Snail Tale, along with a downloadable jar file that people can play. Also added a Copyright symbol in order to make the website look official.
+
+**Day 18:** Correct sizing of images to show the Snail Tale game and edited the position for the copyright symbol.
+
+**Day 19:** Added a new page to show some fun stuff that I like to say/do such as puns!
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
