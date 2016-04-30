@@ -1,4 +1,4 @@
-function nextSnail() {
+function previousSnail() {
         var image = document.getElementById("Snail");
         if(image.src.match("Main")) {
                 image.src = "Gameplay3.png";
@@ -18,7 +18,7 @@ function nextSnail() {
 
 }
 
-function previousSnail() {
+function nextSnail() {
 	var image = document.getElementById("Snail");
 	if(image.src.match("Main")) {
 		image.src = "Story.png";
