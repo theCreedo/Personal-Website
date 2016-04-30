@@ -36,7 +36,15 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 **Day 18:** Correct sizing of images to show the Snail Tale game and edited the position for the copyright symbol.
 
-**Day 19:** Added a new page to show some fun stuff that I like to say/do such as puns!
+**Day 19:** Added a new page to show some fun stuff that I like to say/do such as puns! I also added pictures on my projects and funstuff page. It was really hard to make the pictures work well, because apparently when I moved the pictures onto my terminal, it changed the rotation of the picture. Luckily there is a command on linux that can rotate images, so that saved time.
+
+**Day 20:** Remove some background information, because I'm still hesitating on how I want to go about in college. I also made it so quotes can be hoverable, but I might change that in the future.
+
+**Day 21:** Added links to the Github sites of my projects and removed some text in the error screen to make it look more understandable.
+
+**Day 22:** Change the navigation and section width for the error page.
+
+**Day 23:** I finally learned JavaScript, and implemented it into the website. I spent a good amount of time trying to work out it, so now I have a slide set of images that can show the Snail Tale Game! I also got to add favicon images so that the tabs don't look empty.
 ### 30-Day Project Folders
 * **Eric Lee** - [Github Website](https://github.com/theCreedo/theCreedo.github.io)
 
@@ -74,6 +82,16 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 * [CSS Tutorial](http://www.w3schools.com/css/)
 
 * [JavaScript Tutorial](http://www.w3schools.com/js/)
+
+
+**How to create a 404 Error Page**
+
+* [HTMLGoodies Article](http://www.htmlgoodies.com/beyond/reference/article.php/3472591/How-Do-I-Create-a-Custom-404-Error-Page.htm)
+
+
+**Photo Gallery Scripts**
+
+* [SamHowAt 15 Best Scripts](http://samhowat.com/10-best-photo-gallery-scripts-for-web-developers/)
 
 
 **Other links**
