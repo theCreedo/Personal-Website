@@ -26,7 +26,7 @@ function previousSnail() {
 
 function nextSnail() {
 	var image = document.getElementById("Snail");
-	var imgtext = document.getElementById("imagetext");
+	var imgtext = document.getElementById("imgtext");
 	if(image.src.match("Main")) {
 		image.src = "Story.png";
 		imgtext.innerHTML = " - 2 out of 5 : Story Line - ";
