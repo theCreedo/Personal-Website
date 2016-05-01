@@ -9,8 +9,18 @@
 
   ga('create', 'UA-76765681-1', 'auto');
   ga('send', 'pageview');
-
 </script>
+<script src="jquery.js"></script>
+<script src="typed.js"></script>
+<script>
+	$(function(){
+		$(".element").typed({
+			strings: ["Eric Lee is my name", "Eric Lee"],
+			typeSpeed: 0
+		});
+	});
+</script>
+
 <link rel="icon" href="http://thecreedo.github.io/home.ico" />
 <link rel="stylesheet" type="text/css" href ="test.css">
 <title id = "hp">Home Page</title>
@@ -18,7 +28,7 @@
 <body>
 
 <div id = "header">
-<h1 id="Name">ERIC LEE</h1>
+<div class="element"></div>
 </div>
 <hr>
 <div id = "nav">
