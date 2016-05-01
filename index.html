@@ -15,11 +15,18 @@
 <script>
 	$(function(){
 		$(".element").typed({
-			strings: ["Eric Lee is my name", "Eric Lee"],
+			strings: ["<h1>Eric Lee ^1000 is my name</h1> ^1000", "<h1>Eric Lee</h1> ^"],
 			typeSpeed: 0
 		});
 	});
 </script>
+<!--<script>
+	$(function(){
+		$("#typed").typed({
+			stringsElement: $('#typed-strings')
+		});
+	});
+</script>-->
 
 <link rel="icon" href="http://thecreedo.github.io/home.ico" />
 <link rel="stylesheet" type="text/css" href ="test.css">
@@ -29,6 +36,7 @@
 
 <div id = "header">
 <div class="element"></div>
+<span id="typed"></span>
 </div>
 <hr>
 <div id = "nav">
