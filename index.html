@@ -15,20 +15,49 @@
 <script>
 	$(function(){
 		$(".element").typed({
+			var ckie = document.cookie;
+			if(ckie.match("stage=0"))
+			{
+			document.cookie = "stage=1";
 			strings: ["L^50o^50a^50d^50i^50n^50g^1000.^1000.^1000.", "^500Welcome", "^500My name is Eric Lee", "^500I study Computer Science at the University of Texas at Austin", "^500Hope you enjoy your time here ^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
 			startDelay:500,
 			backDelay: 2000,
+			}
+			else if(ckie.match("stage=1"))
+			{			
+			document.cookie = "stage=2";
+			strings: ["^500Welcome Again ^500:^500)", "^500Eric Lee"],
+			typeSpeed: 50,
+			startDelay:500,
+			backDelay: 2000,
+			}
+			else if(ckie.match("stage=2")
+			{
+			strings: ["^500Are you enjoying your time here?", "I hope so ^500:^500)", "^500Eric Lee"],
+			typeSpeed: 50,
+			startDelay:500,
+			backDelay: 2000,
+			}
 		});
 	});
 </script>
-<!--<script>
+
+<script type="text/javascript">
+        function codeAddress() {
+            document.cookie = "stage=0"; 
+        }
+        window.onload = codeAddress;
+        </script>
+<!--
+<script>
 	$(function(){
 		$("#typed").typed({
 			stringsElement: $('#typed-strings')
 		});
 	});
-</script>-->
+</script>
+-->
 
 <link rel="icon" href="http://thecreedo.github.io/home.ico" />
 <link rel="stylesheet" type="text/css" href ="test.css">
