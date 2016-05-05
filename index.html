@@ -16,7 +16,7 @@
 	$(function(){
 		$(".element").typed({
 			var ckie = document.cookie;
-			if(ckie.match("stage=0"))
+			if(ckie.match("stage=0")== "stage=0")
 			{
 			document.cookie = "stage=1";
 			strings: ["L^50o^50a^50d^50i^50n^50g^1000.^1000.^1000.", "^500Welcome", "^500My name is Eric Lee", "^500I study Computer Science at the University of Texas at Austin", "^500Hope you enjoy your time here ^500:^500)", "^500Eric Lee"],
@@ -25,7 +25,7 @@
 			backDelay: 2000
 
 			}
-			else if(ckie.match("stage=1"))
+			else if(ckie.match("stage=1") == "stage=1")
 			{			
 			document.cookie = "stage=2";
 			strings: ["^500Welcome Again ^500:^500)", "^500Eric Lee"],
@@ -33,7 +33,7 @@
 			startDelay:500,
 			backDelay: 2000
 			}
-			else if(ckie.match("stage=2")
+			else if(ckie.match("stage=2"=="stage=2")
 			{
 			strings: ["^500Are you enjoying your time here?", "I hope so ^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
