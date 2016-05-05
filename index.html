@@ -17,7 +17,6 @@
 		var ckie = document.cookie;
 		if(ckie.match("stage=0")== "stage=0")
 		{
-			document.cookie = "stage=1";
 		$(".element").typed({
 			strings: ["L^50o^50a^50d^50i^50n^50g^1000.^1000.^1000.", "^500Welcome", "^500My name is Eric Lee", "^500I study Computer Science at the University of Texas at Austin", "^500Hope you enjoy your time here ^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
@@ -28,7 +27,6 @@
 		else
 		if(ckie.match("stage=1"=="stage=1"))
 		{
-			document.cookie = "stage=2";
 		$(".element").typed({
 			strings: ["^500Welcome Again ^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
@@ -39,7 +37,6 @@
 		else
 		if(ckie.match("stage=2"=="stage=2"))
 		{
-			document.cookie = "stage=3";
 		$(".element").typed({
 			strings: ["^500Are you enjoying your time here?", "I hope so ^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
@@ -50,7 +47,6 @@
 		else
 		if(ckie.match("stage=3"=="stage=3"))
 		{
-			document.cookie = "stage=4";
 		$(".element").typed({
 			strings: ["^500I hope so! ^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
@@ -60,7 +56,6 @@
 		}
 		else
 		{
-			document.cookie = "stage=0";
 		$(".element").typed({
 			strings: ["^500:^500)", "^500Eric Lee"],
 			typeSpeed: 50,
@@ -74,7 +69,21 @@
 
 <script type="text/javascript">
         function codeAddress() {
-            document.cookie = "stage=0"; 
+		if(ckie.match("stage=0")== "stage=0")
+            		document.cookie = "stage=1";
+		else 
+		if(ckie.match("stage=1")== "stage=1")
+            		document.cookie = "stage=2";
+		else 
+		if(ckie.match("stage=2")== "stage=2")
+            		document.cookie = "stage=3";
+		else 
+		if(ckie.match("stage=3")== "stage=3")
+            		document.cookie = "stage=4";
+		else 
+		{
+			document.cookie = "stage=0";
+		}
         }
         window.onload = codeAddress;
         </script>
