@@ -1,0 +1,2 @@
+For position indication on progress bar:
+https://css-tricks.com/reading-position-indicator/
