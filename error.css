@@ -64,15 +64,15 @@ a:link {
 
 a:visited {
         text-decoration: none;
-        color: hotpink;
+        color: blue;
 }
 
 a:hover {
         text-decoration: underline;
-        color: green;
+        color: blue;
 }
 
 a:active {
         text-decoration: underline;
-        color: darkblue;
+        color: blue;
 }
