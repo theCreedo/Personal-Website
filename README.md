@@ -54,7 +54,7 @@ Started on 4/6/16 for \*Freetail Hacker's 30-day Git Challenge\* :smile:
 
 * **Nandhini Lakuduva** - [Profile](https://github.com/nlakuduva)
 
-* **Sonam Benakatti** - [JavaScript Exercises](https://github.com/sonambenakatti/javascript-exercises)
+* **Sonam Benakatti** - [JavaScript Exercises](https://github.com/sonambenakatti/javascript-exercises) - [Github Website](https://github.com/sonambenakatti/sonambenakatti.github.io)
 
 * **Thien Vo** - [30 Gits Commit](https://github.com/jaysonvo97/30GitsCommit)
 
